@@ -11,3 +11,4 @@
 **BATCH DURATION** : DECEMBER-25,2024 TO JANUARY-25,2025
 
 **OUTPUT FOR TASK 5** :
+   ![image](https://github.com/user-attachments/assets/73e086ba-2b57-4fb8-9e74-85093708750c)
